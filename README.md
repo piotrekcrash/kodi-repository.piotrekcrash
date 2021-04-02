@@ -1,1 +1,2 @@
-# kodi-repository.piotrekcrash
+# repository.piotrekcrash
+
